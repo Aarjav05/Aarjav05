@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aarjav05
-- 👀 I’m interested in computer science.
-- 🌱 I’m currently in high school.
+- 👀 I’m interested in finance and pretty much anything.
+- 🌱 I’m currently in college(2nd year)
+- At thadomal shahani engineering college studying computer engineering.
 - 📫 How to reach me -> through github
 
 <!---
